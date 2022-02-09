@@ -1,2 +1,2 @@
 # shop
-e-commerce with Django
+ecommerce in django
